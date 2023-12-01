@@ -1,28 +1,28 @@
 
 .hero {
-    height: 100vh;
-    background-image: url(https://cdn.mos.cms.futurecdn.net/XvMWmYYBerrYSPZGLSsiDa-1024-80.jpg.webp);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding-bottom: 10px;
-  }
-  .card {
-    border-color: black;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    margin: 0 20px;
-    background-color: #fff;
-  }
-  .card-body {
-    padding: 20px;
-  }
-  .container {
-    display: flex;
-  }
-  .justify-content-center {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    color: white
-  }
+  height: 100vh;
+  background-image: url(https://cdn.mos.cms.futurecdn.net/XvMWmYYBerrYSPZGLSsiDa-1024-80.jpg.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 10px;
+}
+.card {
+  border-color: black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin: 0 20px;
+  background-color: #fff;
+}
+.card-body {
+  padding: 20px;
+}
+.container {
+  display: flex;
+}
+.justify-content-center {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  color: white
+}
